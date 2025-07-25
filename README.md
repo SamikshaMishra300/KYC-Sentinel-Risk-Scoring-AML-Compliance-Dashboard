@@ -1,1 +1,1 @@
-# Owner-avatar-KYC-Sentinel-Risk-Scoring-AML-Compliance-Dashboard
+KYC-Sentinel-Risk-Scoring-AML-Compliance-Dashboard
